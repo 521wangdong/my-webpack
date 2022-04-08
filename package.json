@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/521wangdong/my-webpack#readme",
   "dependencies": {
+    "lodash": "^4.17.21",
     "webpack": "^5.72.0",
     "webpack-cli": "^4.9.2"
   }
